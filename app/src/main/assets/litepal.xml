@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value = "cook_weather"/>
+    <version value = "1"/>
+    <list>
+        <mapping class="com.example.dong_coolweather.db.City"/>
+        <mapping class="com.example.dong_coolweather.db.County"/>
+        <mapping class="com.example.dong_coolweather.db.Province"/>
+    </list>
+</litepal>
+
